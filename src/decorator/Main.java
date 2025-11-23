@@ -7,6 +7,7 @@ import decorator.toppings.CheeseTopping;
 import decorator.toppings.MushroomTopping;
 
 public class Main {
+
     public static void main(String[] args) {
         BasePizza basePizza = new PlainPizza();
 
